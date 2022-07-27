@@ -1,4 +1,5 @@
 use rand::Rng;
+use colored::Colorize;
 
 fn generate_hex_address() -> String {
     let mut rng = rand::thread_rng();
@@ -20,10 +21,22 @@ fn main() {
     const VERSION: &str = env!("CARGO_PKG_VERSION");
 
     println!("------- ⟠⟠⟠ WΞlcomΞ to Ξth Util ⟠⟠⟠ ----------");
-    println!("-------             {}           ----------", VERSION);
+    println!("-------           v{}            ----------", VERSION);
 
-    let hex = generate_hex_address();
+    let input = std::env::args().nth(1);
+    let n; 
+    match input {
+        // todo: input validation - just use clap
+    
+        Some(input) => n = input.parse().unwrap(), 
+        None => n = 1
+    }
 
-    println!("{}", hex);
+    println!("Generated {} new Ethereum Address(es)", n);
+    for _ in 0..n {
+        let hex = generate_hex_address();
+        println!("{}", format!("{}", hex).bold().red());
+    }
+
 
 }
