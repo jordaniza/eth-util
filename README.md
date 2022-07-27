@@ -8,6 +8,8 @@ Creates a random Ethereum address that is Checksummed
 
 ### Todo
 
-[ ] Create an executable pipeline with a [symlink](https://stackoverflow.com/questions/60944480/how-do-i-make-a-rust-program-which-can-be-executed-without-using-cargo-run)
-[ ] Add Checksum
-[ ] Add Clap for CLI Parsing
+- [] Create an executable pipeline with a [symlink](https://stackoverflow.com/questions/60944480/how-do-i-make-a-rust-program-which-can-be-executed-without-using-cargo-run)
+
+- [] Add Checksum
+
+- [] Add Clap for CLI Parsing
