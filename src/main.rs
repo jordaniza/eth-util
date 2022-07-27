@@ -1,6 +1,4 @@
 use rand::Rng;
-use std::fmt;
-
 
 fn generate_hex_address() -> String {
     let mut rng = rand::thread_rng();
