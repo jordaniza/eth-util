@@ -10,6 +10,7 @@ Creates a random Ethereum address that is Checksummed
 
 - [] Create an executable pipeline with a [symlink](https://stackoverflow.com/questions/60944480/how-do-i-make-a-rust-program-which-can-be-executed-without-using-cargo-run)
 
-- [] Add Checksum
-
-- [] Add Clap for CLI Parsing
+- [x] Add Checksum
+- [x] Add Clap for CLI Parsing
+- [x] Get better descriptions for address Parsing
+- [x] Randomise colors
