@@ -1,6 +1,6 @@
 use rand::Rng;
 use colored::Colorize;
-use clap::Parser;
+use clap::{AppSettings, Parser};
 use std::{str::FromStr};
 use ethers_core::{types::H160, utils::to_checksum};
 
@@ -8,6 +8,7 @@ use ethers_core::{types::H160, utils::to_checksum};
 /// A set of quick commands to speed up testing and development on Ethereum
 #[derive(Parser, Debug)]
 #[clap(author, version, about, long_about = None)]
+#[clap(global_setting(AppSettings::ArgRequiredElseHelp))]
 struct CliArgs {
    /// Generate random checksummed addresses for testing 
    #[clap(short, long, value_parser)]
@@ -84,4 +85,6 @@ fn main() {
         },
         None => ()
     };
+
+    
 }
