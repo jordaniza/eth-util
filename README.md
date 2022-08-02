@@ -8,6 +8,7 @@ Creates a random Ethereum address that is Checksummed
 
 ### Todo
 
+- [ ] Orgaize structs into separate library file
 - [ ] Create an executable pipeline with a [symlink](https://stackoverflow.com/questions/60944480/how-do-i-make-a-rust-program-which-can-be-executed-without-using-cargo-run)
 
 - [x] Add Checksum
@@ -16,7 +17,10 @@ Creates a random Ethereum address that is Checksummed
 - [x] Randomise colors
 
 ### Ideas for Functionality
-- [ ] Get whale for token list
-- [ ] Env Vars
-- [ ] Pass tokens as params
-- [ ] Write to json file
+- [x] Get whale for token list
+- [x] Env Vars
+- [x] Pass token address as params in CLI
+- [x] Fetch token metadata and attach to JSON file
+- [x] Let user choose the JSON filename
+- [x] Write to json file
+
