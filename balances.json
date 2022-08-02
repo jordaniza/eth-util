@@ -1,0 +1,242 @@
+[
+  {
+    "holder": {
+      "address": "0xbf72da2bd84c5170618fbe5914b0eca9638d5eb5",
+      "balance": 3385894768101.0,
+      "share": 14.3
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
+      "balance": 2697676331574.0,
+      "share": 11.4
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a",
+      "balance": 1700644359459.0,
+      "share": 7.18
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0x218b95be3ed99141b0144dba6ce88807c4ad7c09",
+      "balance": 1200000000000.0,
+      "share": 5.07
+    },
+    "eth": "0x100c9c023c0ea13"
+  },
+  {
+    "holder": {
+      "address": "0x845cbcb8230197f733b59cfe1795f282786f212c",
+      "balance": 1062843002797.0,
+      "share": 4.49
+    },
+    "eth": "0xdc5167aac04fa22"
+  },
+  {
+    "holder": {
+      "address": "0x8eb8a3b98659cce290402893d0123abb75e3ab28",
+      "balance": 971394027499.0,
+      "share": 4.1
+    },
+    "eth": "0x12ef18e33e731af8b2"
+  },
+  {
+    "holder": {
+      "address": "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf",
+      "balance": 686992059442.0,
+      "share": 2.9
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed",
+      "balance": 620972871889.0,
+      "share": 2.62
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0x7f62f9592b823331e012d3c5ddf2a7714cfb9de2",
+      "balance": 559842557602.0,
+      "share": 2.37
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0x602d9abd5671d24026e2ca473903ff2a9a957407",
+      "balance": 516211004736.0,
+      "share": 2.18
+    },
+    "eth": "0x2ecfda5de384e3eeffb"
+  },
+  {
+    "holder": {
+      "address": "0xa3a7b6f88361f48403514059f1f16c8e78d60eec",
+      "balance": 389771701711.0,
+      "share": 1.65
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0xd51a44d3fae010294c616388b506acda1bfaae46",
+      "balance": 384356610168.0,
+      "share": 1.62
+    },
+    "eth": "0x1266c762769760f"
+  },
+  {
+    "holder": {
+      "address": "0xc564ee9f21ed8a2d8e7e76c085740d5e4c5fafbe",
+      "balance": 328271963988.0,
+      "share": 1.39
+    },
+    "eth": "0x6f1423621559087e"
+  },
+  {
+    "holder": {
+      "address": "0x7abe0ce388281d2acf297cb089caef3819b13448",
+      "balance": 320340823686.0,
+      "share": 1.35
+    },
+    "eth": "0x48089872b9c757c20d7"
+  },
+  {
+    "holder": {
+      "address": "0xf977814e90da44bfa03b6295a0616a897441acec",
+      "balance": 309000000000.0,
+      "share": 1.31
+    },
+    "eth": "0x1166439cc9d3f3d6686a4"
+  },
+  {
+    "holder": {
+      "address": "0x4585fe77225b41b697c938b018e2ac67ac5a20c0",
+      "balance": 256295993092.0,
+      "share": 1.08
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0x6ab3bba2f41e7eaa262fa5a1a9b3932fa161526f",
+      "balance": 211890118396.0,
+      "share": 0.9
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0xcffad3200574698b78f32232aa9d63eabd290703",
+      "balance": 170000000000.0,
+      "share": 0.72
+    },
+    "eth": "0xe38582855bd335bb7db"
+  },
+  {
+    "holder": {
+      "address": "0x6dab3bcbfb336b29d06b9c793aef7eaa57888922",
+      "balance": 161144746174.0,
+      "share": 0.68
+    },
+    "eth": "0x6ca1b339e8c4237affe"
+  },
+  {
+    "holder": {
+      "address": "0x93054188d876f558f4a66b2ef1d97d16edf0895b",
+      "balance": 157670522169.0,
+      "share": 0.67
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0x22616bba2351cc5fe66612050ab2997b7561358c",
+      "balance": 131279572561.0,
+      "share": 0.55
+    },
+    "eth": "0x2bb78e989f1ce5dc068"
+  },
+  {
+    "holder": {
+      "address": "0xe3dd3914ab28bb552d41b8dfe607355de4c37a51",
+      "balance": 131166393879.0,
+      "share": 0.55
+    },
+    "eth": "0x4e97fb87ae115492584"
+  },
+  {
+    "holder": {
+      "address": "0x670d5ea78c501f1b7181f337093b39ba501d3a6a",
+      "balance": 112440911448.0,
+      "share": 0.48
+    },
+    "eth": "0x30514b7888f4b00"
+  },
+  {
+    "holder": {
+      "address": "0x61c808d82a3ac53231750dadc13c777b59310bd9",
+      "balance": 110000000000.0,
+      "share": 0.46
+    },
+    "eth": "0xde0b6b3a7640000"
+  },
+  {
+    "holder": {
+      "address": "0xd96f48665a1410c0cd669a88898eca36b9fc2cce",
+      "balance": 107490989195.0,
+      "share": 0.45
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0x23ddd3e3692d1861ed57ede224608875809e127f",
+      "balance": 105692261697.0,
+      "share": 0.45
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0x88a69b4e698a4b090df6cf5bd7b2d47325ad30a3",
+      "balance": 101169096194.0,
+      "share": 0.43
+    },
+    "eth": "0x0"
+  },
+  {
+    "holder": {
+      "address": "0x38720d56899d46cad253d08f7cd6cc89d2c83190",
+      "balance": 100037954629.0,
+      "share": 0.42
+    },
+    "eth": "0x6bbcc03b95de6b10"
+  },
+  {
+    "holder": {
+      "address": "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8",
+      "balance": 90813514223.0,
+      "share": 0.38
+    },
+    "eth": "0x13e13fd95efee2c79e"
+  },
+  {
+    "holder": {
+      "address": "0x99ac8ca7087fa4a2a1fb6357269965a2014abc35",
+      "balance": 88546056479.0,
+      "share": 0.37
+    },
+    "eth": "0x0"
+  }
+]
